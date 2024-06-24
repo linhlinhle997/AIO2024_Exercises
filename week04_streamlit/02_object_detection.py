@@ -2,10 +2,11 @@ import cv2
 import numpy as np
 from PIL import Image
 import streamlit as st
+import os
 
 
-MODEL = "./model/MobileNetSSD_deploy.caffemodel"
-PROTOTXT = "./model/MobileNetSSD_deploy.prototxt.txt"
+MODEL = os.path.join(os.path.dirname(__file__), "model", "MobileNetSSD_deploy.caffemodel")
+PROTOTXT = os.path.join(os.path.dirname(__file__), "model", "MobileNetSSD_deploy.prototxt.txt")
 
 
 def process_image(image):
