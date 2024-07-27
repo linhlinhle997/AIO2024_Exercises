@@ -8,3 +8,5 @@ This repository is used to do exercises for AOI2024
   - `Week 03 - OOP`
 - `Module 02`
   - `Week 01 - Numpy`
+  - `Week 02 - Vector`
+  - `Week 04 - Probability`
