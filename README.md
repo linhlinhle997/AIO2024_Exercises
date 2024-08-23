@@ -9,5 +9,7 @@ This repository is used to do exercises for AOI2024
 - `Module 02`
   - `Week 01 - Numpy`
   - `Week 02 - Vector`
-  - `Week 04 - Probability`
-  - `Week 05 - Statistics`
+  - `Week 03 - Probability`
+  - `Week 04 - Statistics`
+- `Module 03`
+  - `Week 01 - Data Analysis`
