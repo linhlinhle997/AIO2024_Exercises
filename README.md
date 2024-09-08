@@ -14,3 +14,4 @@ This repository is used to do exercises for AOI2024
 - `Module 03`
   - `Week 01 - Data Analysis`
   - `Week 02 - KNN and KMean`
+  - `Week 03 - Decision Tree`
