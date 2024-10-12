@@ -19,3 +19,4 @@ This repository is used to do exercises for AOI2024
   - `Week 05 - XGBoost`
 - `Module 04`
   - `Week 01 - Linear Regression`
+  - `Week 02 - Linear Regression Vectorization`
