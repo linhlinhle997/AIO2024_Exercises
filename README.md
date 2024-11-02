@@ -21,3 +21,6 @@ This repository is used to do exercises for AOI2024
   - `Week 01 - Linear Regression`
   - `Week 02 - Linear Regression Vectorization`
   - `Week 03 - Genetic Algorithm`
+  - `Week 04 - Polynomial Regression`
+- `Module 05`
+  - `Week 01 - Logistic Regression`
