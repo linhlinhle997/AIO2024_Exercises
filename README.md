@@ -1,7 +1,9 @@
 # AIO2024_Exercises
+
 This repository is used to do exercises for AOI2024
 
 ## Structure
+
 - `Module 01`
   - `Week 01 - Basic Python`
   - `Week 02 - Data Structure`
@@ -24,3 +26,4 @@ This repository is used to do exercises for AOI2024
   - `Week 04 - Polynomial Regression`
 - `Module 05`
   - `Week 01 - Logistic Regression`
+  - `Week 02 - Softmax Regression`
