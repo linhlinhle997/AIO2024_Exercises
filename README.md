@@ -27,3 +27,5 @@ This repository is used to do exercises for AOI2024
 - `Module 05`
   - `Week 01 - Logistic Regression`
   - `Week 02 - Softmax Regression`
+  - `Week 03 - Multi Layer Perceptrons`
+  - `Week 04 - Optimizer`
