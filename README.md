@@ -29,3 +29,5 @@ This repository is used to do exercises for AOI2024
   - `Week 02 - Softmax Regression`
   - `Week 03 - Multi Layer Perceptrons`
   - `Week 04 - Optimizer`
+- `Module 06`
+  - `Week 01 - CNN`
