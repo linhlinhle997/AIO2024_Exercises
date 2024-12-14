@@ -31,3 +31,4 @@ This repository is used to do exercises for AOI2024
   - `Week 04 - Optimizer`
 - `Module 06`
   - `Week 01 - CNN`
+  - `Week 02 - Advanced CNN`
