@@ -33,3 +33,4 @@ This repository is used to do exercises for AOI2024
   - [Week 01 - CNN](https://github.com/linhlinhle997/AIO2024_Exercises/tree/main/module06/week01_CNN)
   - [Week 02 - Advanced CNN](https://github.com/linhlinhle997/AIO2024_Exercises/tree/main/module06/week02_advanced_CNN)
   - [Week 03 - RNN](https://github.com/linhlinhle997/AIO2024_Exercises/tree/main/module06/week03_RNN)
+  - [Week 04 - Transformer](https://github.com/linhlinhle997/AIO2024_Exercises/tree/main/module06/week04_Transformer)
